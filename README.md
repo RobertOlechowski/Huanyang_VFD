@@ -1,8 +1,8 @@
 # Huanyang VFD
 All you have to know about Huanyang VFD
 * [VFD manual](https://github.com/RobertOlechowski/Huanyang_VFD/blob/master/Documentations/pdf/VFD.pdf)
-* Wiring  
-* Configuration
+* [Wiring](#Wiring) 
+* [Configuration](#Configuration) 
 * Remote control
 * Mach 3 integration
 * Linux CNC integration
@@ -23,20 +23,22 @@ All you have to know about Huanyang VFD
 
 ![vfd_and_spindle](https://github.com/RobertOlechowski/Huanyang_VFD/blob/master/Documentations/photos/vfd_connections_2.jpg?raw=true)
 
-## Power connection to VFD
-### Three phases
+##Wiring
+### Power three phases
 ![Three phases](https://github.com/RobertOlechowski/Huanyang_VFD/blob/master/Documentations/diagrams/3p.png?raw=true)
 
-### Single Phase
+### Power single phase
 ![Single Phase](https://github.com/RobertOlechowski/Huanyang_VFD/blob/master/Documentations/diagrams/1p.png?raw=true)
 
-## Connection between VFD and spindle
-.............
+### Connection between VFD and spindle
+![Single Phase](https://github.com/RobertOlechowski/Huanyang_VFD/blob/master/Documentations/diagrams/diagram_spindle.png?raw=true)
 
-## VFD Configuration
+If spindle is getting very hot it is signal that you made mistake in wiring 
+
+##Configuration
 ...............
 
-## CFD Remote control
+## VFD Remote control
 ................ 
 
 ### Mach 3 integration
