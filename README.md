@@ -1,6 +1,6 @@
 # Huanyang VFD
 All you have to know about Huanyang VFD
-* [VFD manual](https://github.com/RobertOlechowski/Huanyang_VFD/blob/master/Documentations/pdf/VFD.pdf?raw=true)
+* [VFD manual](https://github.com/RobertOlechowski/Huanyang_VFD/blob/master/Documentations/pdf/VFD.pdf)
 * Wiring  
 * Configuration
 * Remote control
