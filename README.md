@@ -8,7 +8,8 @@ All you have to know about Huanyang VFD
 * Linux CNC integration
 
 ## Dedicated blog
-.....................
+Blog is in Polish language:
+* [Wiring](https://blog.robertolechowski.com/HUANYANG-podlaczenie/)
 
 ## Equipment photos
 ![vfd_and_spindle](https://github.com/RobertOlechowski/Huanyang_VFD/blob/master/Documentations/photos/vfd_and_spindle.jpg?raw=true)
