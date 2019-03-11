@@ -25,10 +25,10 @@ All you have to know about Huanyang VFD
 
 ## Power connection to VFD
 ### Three phases
-....................
+![Three phases](https://github.com/RobertOlechowski/Huanyang_VFD/blob/master/Documentations/diagrams/3p.png?raw=true)
 
 ### Single Phase
-....................
+![Single Phase](https://github.com/RobertOlechowski/Huanyang_VFD/blob/master/Documentations/diagrams/1p.png?raw=true)
 
 ## Connection between VFD and spindle
 .............
