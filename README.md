@@ -23,7 +23,7 @@ All you have to know about Huanyang VFD
 
 ![vfd_and_spindle](https://github.com/RobertOlechowski/Huanyang_VFD/blob/master/Documentations/photos/vfd_connections_2.jpg?raw=true)
 
-##Wiring
+## Wiring
 ### Power three phases
 ![Three phases](https://github.com/RobertOlechowski/Huanyang_VFD/blob/master/Documentations/diagrams/3p.png?raw=true)
 
@@ -35,7 +35,7 @@ All you have to know about Huanyang VFD
 
 If spindle is getting very hot it is signal that you made mistake in wiring 
 
-##Configuration
+## Configuration
 ...............
 
 ## VFD Remote control
