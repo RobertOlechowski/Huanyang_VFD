@@ -1,9 +1,9 @@
 # Huanyang VFD
 All you have to know about Huanyang VFD
-* [VFD manual](https://github.com/RobertOlechowski/Huanyang_VFD/blob/master/Documentations/pdf/VFD.pdf)
+* [VFD manual](https://github.com/RobertOlechowski/Huanyang_VFD/blob/master/Documentations/pdf/VFD.pdf) and [GDZ80x73-2.2 spindle manual](https://github.com/RobertOlechowski/Huanyang_VFD/blob/master/Documentations/pdf/GDZ80X73-2.2_2.pdf)
 * [Wiring](#Wiring) 
 * [Configuration](#Configuration) 
-* Remote control
+* External control
 * Mach 3 integration
 * Linux CNC integration
 
@@ -39,7 +39,7 @@ If spindle is getting very hot it is signal that you made mistake in wiring
 ## Configuration
 ...............
 
-## VFD Remote control
+## VFD External control
 ................ 
 
 ### Mach 3 integration
