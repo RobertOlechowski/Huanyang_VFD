@@ -1,11 +1,12 @@
 # Huanyang VFD
 All you have to know about Huanyang VFD
-* [VFD manual](https://github.com/RobertOlechowski/Huanyang_VFD/blob/master/Documentations/pdf/VFD.pdf) and [GDZ80x73-2.2 spindle manual](https://github.com/RobertOlechowski/Huanyang_VFD/blob/master/Documentations/pdf/GDZ80X73-2.2_2.pdf)
-* [Wiring](#Wiring) 
-* [Configuration](#Configuration) 
-* External control
-* Mach 3 integration
-* Linux CNC integration
+
+Original manuals:
+* [VFD manual 1](https://github.com/RobertOlechowski/Huanyang_VFD/blob/master/Documentations/pdf/HY_Series_Inverter_20100627.pdf)
+* [VFD manual 2](https://github.com/RobertOlechowski/Huanyang_VFD/blob/master/Documentations/pdf/Huanyang_English_Manual-c.pdf)
+* [VFD manual 3](https://github.com/RobertOlechowski/Huanyang_VFD/blob/master/Documentations/pdf/VFD.pdf)
+* [GDZ80x73-2.2 spindle manual](https://github.com/RobertOlechowski/Huanyang_VFD/blob/master/Documentations/pdf/GDZ80X73-2.2_2.pdf)
+
 
 ## Dedicated blog
 Blog is in Polish language:
