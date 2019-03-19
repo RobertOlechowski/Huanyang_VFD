@@ -9,8 +9,7 @@ Original manuals:
 
 
 ## Dedicated blog
-Blog is in Polish language:
-* [Wiring](https://blog.robertolechowski.com/HUANYANG-podlaczenie/)
+Blog is in Polish language: [blog](https://blog.robertolechowski.com/HUANYANG-podlaczenie/)
 
 ## Equipment photos
 ![vfd_and_spindle](https://github.com/RobertOlechowski/Huanyang_VFD/blob/master/Documentations/photos/vfd_and_spindle.jpg?raw=true)
@@ -38,10 +37,36 @@ Blog is in Polish language:
 If spindle is getting very hot it is signal that you made mistake in wiring 
 
 ## Configuration
-...............
+It is example of working configuration
 
-## VFD External control
-................ 
+PD000 	1 	set as last one
+PD001 	0 	
+PD002 	1 	
+PD004 	400Hz 	
+PD005 	400Hz 	
+PD006 	20Hz 	
+PD007 	0.5Hz 	
+PD008 	220V 
+PD009 	16V 
+PD010 	4V 
+PD011 	30Hz 
+PD013 	08 	set as first
+PD014 	10 
+PD015 	10 
+PD023 	0 
+PD024 	1 
+PD071 	20 
+PD072 	400Hz 
+PD141 	220V 
+PD142 	6A 	
+PD143 	2 	
+PD144 	3000 
+PD145 	2.0 
+PD146 	40 	
+PD147 	0 	
+PD150 	1 
+PD151 	0 	
+
 
 ### Mach 3 integration
 ...............
