@@ -49,35 +49,35 @@ Blog is in Polish language: [blog](https://blog.robertolechowski.com/HUANYANG-po
 ## Configuration
 It is sample configuration that works for me
 
-* PD013 	08 	set as first
-
-* PD001 	0 	
-* PD002 	1 	
-* PD004 	400Hz 	
-* PD005 	400Hz 	
-* PD006 	20Hz 	
-* PD007 	0.5Hz 	
-* PD008 	220V 
-* PD009 	16V 
-* PD010 	4V 
-* PD011 	30Hz 
-* PD014 	10 
-* PD015 	10 
-* PD023 	0 
-* PD024 	1 
-* PD071 	20 
-* PD072 	400Hz 
-* PD141 	220V 
-* PD142 	6A 	
-* PD143 	2 	
-* PD144 	3000 
-* PD145 	2.0 
-* PD146 	40 	
-* PD147 	0 	
-* PD150 	1 
-* PD151 	0 	
-
-* PD000 	1 	set as last one
+| Parameter  | Value | Comment |
+| ------------- | ------------- | ------ |
+| PD013 | 08        | 	set as first |
+| PD001 | 0         |    |
+| PD002 | 1         |    |
+| PD004 | 400Hz     |    |
+| PD005 | 400Hz     |    |
+| PD006 | 20Hz      |    |
+| PD007 | 0.5Hz     |    |
+| PD008 | 220V      |    |
+| PD009 | 16V       |    |
+| PD010 | 4V        |    |
+| PD011 | 30Hz      |    |
+| PD014 | 10        |    |
+| PD015 | 10        |    |
+| PD023 | 0         |    |
+| PD024 | 1         |    |
+| PD071 | 20        |    |
+| PD072 | 400Hz     |    |
+| PD141 | 220V      |    |
+| PD142 | 6A        |    |
+| PD143 | 2         |    |
+| PD144 | 3000      |    |
+| PD145 | 2.0       |    |
+| PD146 | 40        |    |
+| PD147 | 0         |    |
+| PD150 | 1         |    |
+| PD151 | 0         |    |
+| PD000 | 1         |   set as last one |  	
 
 ### Mach 3 integration
 ...............
