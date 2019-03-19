@@ -34,39 +34,50 @@ Blog is in Polish language: [blog](https://blog.robertolechowski.com/HUANYANG-po
 ### Connection between VFD and spindle
 ![Single Phase](https://github.com/RobertOlechowski/Huanyang_VFD/blob/master/Documentations/diagrams/diagram_spindle.png?raw=true)
 
-If spindle is getting very hot it is signal that you made mistake in wiring 
+### analog input
+![analog connection](https://github.com/RobertOlechowski/Huanyang_VFD/blob/master/Documentations/diagrams/analog_diagram.png?raw=true)
+
+![jumper](https://github.com/RobertOlechowski/Huanyang_VFD/blob/master/Documentations/diagrams/Analog_zwora_2.jpg?raw=true)
+
+![Huanyang](https://github.com/RobertOlechowski/Huanyang_VFD/blob/master/Documentations/photos/Analog/analogowo_2.jpg?raw=true)
+
+### external control
+![Huanyang](https://github.com/RobertOlechowski/Huanyang_VFD/blob/master/Documentations/diagrams/external_controll.jpg?raw=true)
+
+![Huanyang](https://github.com/RobertOlechowski/Huanyang_VFD/blob/master/Documentations/diagrams/external_2.png?raw=true)
 
 ## Configuration
-It is example of working configuration
+It is sample configuration that works for me
 
-PD000 	1 	set as last one
-PD001 	0 	
-PD002 	1 	
-PD004 	400Hz 	
-PD005 	400Hz 	
-PD006 	20Hz 	
-PD007 	0.5Hz 	
-PD008 	220V 
-PD009 	16V 
-PD010 	4V 
-PD011 	30Hz 
-PD013 	08 	set as first
-PD014 	10 
-PD015 	10 
-PD023 	0 
-PD024 	1 
-PD071 	20 
-PD072 	400Hz 
-PD141 	220V 
-PD142 	6A 	
-PD143 	2 	
-PD144 	3000 
-PD145 	2.0 
-PD146 	40 	
-PD147 	0 	
-PD150 	1 
-PD151 	0 	
+* PD013 	08 	set as first
 
+* PD001 	0 	
+* PD002 	1 	
+* PD004 	400Hz 	
+* PD005 	400Hz 	
+* PD006 	20Hz 	
+* PD007 	0.5Hz 	
+* PD008 	220V 
+* PD009 	16V 
+* PD010 	4V 
+* PD011 	30Hz 
+* PD014 	10 
+* PD015 	10 
+* PD023 	0 
+* PD024 	1 
+* PD071 	20 
+* PD072 	400Hz 
+* PD141 	220V 
+* PD142 	6A 	
+* PD143 	2 	
+* PD144 	3000 
+* PD145 	2.0 
+* PD146 	40 	
+* PD147 	0 	
+* PD150 	1 
+* PD151 	0 	
+
+* PD000 	1 	set as last one
 
 ### Mach 3 integration
 ...............
