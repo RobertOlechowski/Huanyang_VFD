@@ -1,0 +1,8 @@
+Ce plugin vous permet de piloter votre variateur Huanyang via mach3 au travers du lien rs485
+
+Prérequis, installation et procédure de configuration se trouvent à l'adresse:
+
+http://royaumedeole.fr/informatique/plugin-mach3-pour-vfdhuanyang/
+
+contact: sebastien@royaumedeole.fr
+
